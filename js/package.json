@@ -1,0 +1,15 @@
+{
+    "name": "@matteociaroni/flarum-public-suspensions",
+    "private": true,
+    "version": "0.0.0",
+    "devDependencies": {
+        "flarum-webpack-config": "^2.0.0",
+        "webpack": "^5.65.0",
+        "webpack-cli": "^4.9.1"
+    },
+    "scripts": {
+        "dev": "webpack --mode development --watch",
+        "build": "webpack --mode production",
+        "analyze": "cross-env ANALYZER=true npm run build"
+    }
+}

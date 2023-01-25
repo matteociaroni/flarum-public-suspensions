@@ -1,0 +1,4 @@
+matteociaroni-public-suspensions:
+  admin:
+    permissions:
+      read_suspensions: View if a user is suspended

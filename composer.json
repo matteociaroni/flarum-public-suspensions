@@ -1,0 +1,54 @@
+{
+    "name": "matteociaroni/flarum-public-suspensions",
+    "description": "Let everyone know if a user is suspended",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.2.0"
+    },
+    "authors": [
+        {
+            "name": "Matteo Ciaroni",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MatteoCiaroni\\PublicSuspensions\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Public Suspensions",
+            "category": "",
+            "icon": {
+                "name": "fas fa-users-slash",
+                "color": "",
+                "backgroundColor": ""
+            }
+        },
+        "flarum-cli": {
+            "modules": {
+                "admin": true,
+                "forum": true,
+                "js": true,
+                "jsCommon": false,
+                "css": false,
+                "locale": true,
+                "gitConf": false,
+                "githubActions": false,
+                "prettier": false,
+                "typescript": false,
+                "bundlewatch": false,
+                "backendTesting": false,
+                "editorConfig": false,
+                "styleci": false
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
