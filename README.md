@@ -1,4 +1,4 @@
-# Public Suspensions
+# Public suspensions for Flarum
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -24,5 +24,5 @@ php flarum cache:clear
 
 ## Links
 
-- [Packagist](https://packagist.org/packages/matteociaroni/flarum-public-suspensions)
 - [GitHub](https://github.com/matteociaroni/flarum-public-suspensions)
+- [Packagist](https://packagist.org/packages/matteociaroni/flarum-public-suspensions)
