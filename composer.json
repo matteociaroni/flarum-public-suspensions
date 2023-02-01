@@ -1,6 +1,6 @@
 {
     "name": "matteociaroni/flarum-public-suspensions",
-    "description": "Let everyone know if a user is suspended",
+    "description": "A Flarum extension to show everyone that a user is suspended.",
     "keywords": [
         "flarum"
     ],

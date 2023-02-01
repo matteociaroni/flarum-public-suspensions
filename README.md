@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A [Flarum](http://flarum.org) extension to show everyone if a user is suspended.
+A simple [Flarum](http://flarum.org) extension to add to normal users (and guests, if you want) the permission to see the "suspended" badge in other users.
 
 ![settings](https://raw.githubusercontent.com/matteociaroni/flarum-public-suspensions/master/settings.png)
 
