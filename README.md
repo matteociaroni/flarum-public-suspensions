@@ -26,3 +26,4 @@ php flarum cache:clear
 
 - [GitHub](https://github.com/matteociaroni/flarum-public-suspensions)
 - [Packagist](https://packagist.org/packages/matteociaroni/flarum-public-suspensions)
+- [Discuss](https://discuss.flarum.org/d/32350)
