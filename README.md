@@ -11,13 +11,13 @@ A [Flarum](http://flarum.org) extension to show everyone if a user is suspended.
 Install with composer:
 
 ```sh
-composer require matteociaroni/flarum-public-suspensions:dev-master
+composer require matteociaroni/flarum-public-suspensions
 ```
 
 ## Updating
 
 ```sh
-composer update matteociaroni/flarum-public-suspensions:dev-master
+composer update matteociaroni/flarum-public-suspensions
 php flarum migrate
 php flarum cache:clear
 ```
