@@ -1,6 +1,6 @@
 # Public suspensions for Flarum
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Total Downloads](https://img.shields.io/packagist/dt/matteociaroni/flarum-public-suspensions.svg)]([https://packagist.org/packages/fof/upload](https://packagist.org/packages/matteociaroni/flarum-public-suspensions))
 
 A simple [Flarum](http://flarum.org) extension to add to normal users (and guests, if you want) the permission to see the "suspended" badge in other users.
 
